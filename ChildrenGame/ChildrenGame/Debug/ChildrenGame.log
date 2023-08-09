@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\ChildrenGame\ChildrenGame\MyForm.h(1293,16): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ChildrenGame\ChildrenGame\MyForm.h(1353,16): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ChildrenGame\ChildrenGame\MyForm.h(1507,16): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ChildrenGame\ChildrenGame\MyForm.cpp(5,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ChildrenGame.vcxproj -> D:\ChildrenGame\Debug\ChildrenGame.exe

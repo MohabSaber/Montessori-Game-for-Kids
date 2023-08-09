@@ -1,0 +1,11 @@
+C:\Users\Dr Mahmoud Magdy\source\repos\ChildrenGame\ChildrenGame\Debug\ChildrenGame.MyForm.resources
+C:\Users\Dr Mahmoud Magdy\source\repos\ChildrenGame\ChildrenGame\Debug\ChildrenGame.vcxproj.GenerateResource.cache
+C:\Users\Dr Mahmoud Magdy\source\repos\ChildrenGame\ChildrenGame\Debug\ChildrenGame.vcxprojAssemblyReference.cache
+C:\Users\felfe\Desktop\ChildrenGame\ChildrenGame\Debug\ChildrenGame.vcxproj.AssemblyReference.cache
+C:\Users\felfe\Desktop\ChildrenGame\ChildrenGame\Debug\ChildrenGame.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\felfe\Desktop\ChildrenGame\ChildrenGame\Debug\ChildrenGame.MyForm.resources
+C:\Users\felfe\Desktop\ChildrenGame\ChildrenGame\Debug\ChildrenGame.vcxproj.GenerateResource.cache
+D:\ChildrenGame\ChildrenGame\Debug\ChildrenGame.vcxproj.AssemblyReference.cache
+D:\ChildrenGame\ChildrenGame\Debug\ChildrenGame.vcxproj.SuggestedBindingRedirects.cache
+D:\ChildrenGame\ChildrenGame\Debug\ChildrenGame.MyForm.resources
+D:\ChildrenGame\ChildrenGame\Debug\ChildrenGame.vcxproj.GenerateResource.cache
